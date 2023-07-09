@@ -1,3 +1,7 @@
+html {
+    touch-action: manipulation;
+}
+
 body {
     /*background-image: url("station.jpg");*/
     background-image: url("https://www.thereciperebel.com/wp-content/uploads/2022/04/air-fryer-hot-dogs-TRR-1200-14-of-15.jpg");
